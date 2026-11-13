@@ -66,7 +66,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onContactClick }) =>
             </h2>
 
             <p className="text-base text-neutral-300 leading-relaxed mb-6">
-              With over 5 years of active graphic design and art direction practice, I have partnered with fashion ateliers, music collectives, architectural journals, and commercial enterprises to formulate cohesive visual identities that leave a lasting imprint.
+              With active graphic design and art direction practice, I have partnered with fashion ateliers, music collectives, architectural journals, and commercial enterprises to formulate cohesive visual identities that leave a lasting imprint.
             </p>
 
             <p className="text-sm text-neutral-400 leading-relaxed mb-8">
