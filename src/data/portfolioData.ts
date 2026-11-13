@@ -32,12 +32,6 @@ export const DESIGNER_INFO = {
   heroImage: '/assets/aistudio/7da29ef5188d40bda8aa3ad85bc41db0_3e531d97.jpg',
   aboutImage: '/assets/aistudio/Confident_Portrait_by_a_Modern_Wall_42f9c56c.png',
   bio: 'Specializing in visual identities, editorial publications, poster designs, and creative art direction at ABYEE STYLE. I translate complex brand stories into striking visual languages that stand out in crowded cultural and commercial landscapes.',
-  metrics: [
-    { label: 'Completed Projects', value: '52+' },
-    { label: 'Years Experience', value: '5+' },
-    { label: 'Brand Identities', value: '18' },
-    { label: 'Client Satisfaction', value: '100%' },
-  ],
   skills: [
     { name: 'Adobe Photoshop', level: '96%' },
     { name: 'Adobe Illustrator', level: '95%' },
