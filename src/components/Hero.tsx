@@ -125,20 +125,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreClick, onContactClick }) =>
           </div>
         </div>
 
-        {/* Full-width Metric Strip below the split as per guidelines */}
-        <div className="mt-16 pt-10 border-t border-neutral-800/80 grid grid-cols-2 sm:grid-cols-4 gap-6">
-          {DESIGNER_INFO.metrics.map((metric, i) => (
-            <div key={i} className="flex flex-col">
-              <span className="text-3xl sm:text-4xl font-extrabold text-white font-display tabular-nums tracking-tight">
-                {metric.value}
-              </span>
-              <span className="text-xs sm:text-sm text-neutral-400 font-medium mt-1">
-                {metric.label}
-              </span>
-            </div>
-          ))}
-        </div>
-      </div>
+        div>
     </section>
   );
 };
