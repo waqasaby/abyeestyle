@@ -125,7 +125,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreClick, onContactClick }) =>
           </div>
         </div>
 
-        div>
+      </div>
     </section>
   );
 };
